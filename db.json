@@ -1,0 +1,43 @@
+{
+  "api":[
+    {
+      "_id": "5e842d83fde5174be4294221",
+      "name": "adeeba",
+      "gender": "female",
+      "age": 24,
+      "address": "kalmunai",
+      "city": "ampara",
+      "country": "srilanka",
+      "status": "recoverd",
+      "updated": "2020-04-01T05:58:27.964Z",
+      "__V": 0
+
+    },
+    {
+      "_id": "5e842d83fde5174be4294222",
+      "name": "ramesh",
+      "gender": "male",
+      "age": 24,
+      "address": "kalmunai",
+      "city": "ampara",
+      "country": "srilanka",
+      "status": "recoverd",
+      "updated": "2020-04-01T05:58:27.964Z",
+      "__V": 0
+
+    },
+    {
+      "_id": "5e842d83fde5174be4294223",
+      "name": "suresh",
+      "gender": "male",
+      "age": 24,
+      "address": "kalmunai",
+      "city": "ampara",
+      "country": "srilanka",
+      "status": "recoverd",
+      "updated": "2020-04-01T05:58:27.964Z",
+      "__V": 0
+
+    }
+  ]
+}
