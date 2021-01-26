@@ -9,6 +9,16 @@
       "country": "dd",
       "status": "Positive",
       "id": 5
+    },
+    {
+      "name": "Adeeba Saleem",
+      "gender": "Female",
+      "age": 23,
+      "address": "28000",
+      "city": " dd",
+      "country": "dd",
+      "status": "Recovered",
+      "id": 6
     }
   ]
 }
